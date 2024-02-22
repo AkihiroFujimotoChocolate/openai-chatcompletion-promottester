@@ -1,4 +1,4 @@
-# openai-chatcompletion-promottester
+# Openai API Promot Tester
 ## Example of Environment Variables for Local Execution
 Create a .env file in app directory as follows
 ```shell
